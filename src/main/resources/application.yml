@@ -1,0 +1,13 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: sinsahelper-cloud-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/woozxn/Sinsahelper_Config
+          username: woozxn
+          password: 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
