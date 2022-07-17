@@ -8,6 +8,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/woozxn/Sinsahelper_Config
+          uri: https://github.com/woozxn/sinsahelper_config
           username: woozxn
-          password: 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
+          password: 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
