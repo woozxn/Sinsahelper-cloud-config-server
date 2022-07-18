@@ -10,4 +10,4 @@ spring:
         git:
           uri: https://github.com/woozxn/sinsahelper_config.git
           username: woozxn
-          password: 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
+          password: secret
