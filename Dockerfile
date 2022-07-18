@@ -6,4 +6,4 @@ WORKDIR /server
 
 COPY ./build/libs/*-SNAPSHOT.jar server.jar
 
-ENTRYPOINT ["java","-jar","server.jar","-Dspring.cloud.config.server.git.password=${PASSWORD}"]
+ENTRYPOINT ["java","-jar","server.jar"]
